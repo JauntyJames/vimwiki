@@ -1,0 +1,6 @@
+= OCIR =
+
+== Service Limits ==
+* total storage - 10TB per region
+* 500 Repos per region
+* 200 images per repo

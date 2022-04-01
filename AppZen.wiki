@@ -1,0 +1,12 @@
+= AppZen =
+
+== Technologies ==
+    * [[Kubernetes]] ([[OKE]])
+    * [[Container registry]]
+
+== Questions ==
+
+* What limitations might they find?
+  - PVC functionality?
+  - LB functionality?
+  - [[Container registry]] service limits?
