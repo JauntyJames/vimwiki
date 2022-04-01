@@ -1,10 +1,17 @@
 = Customers =
     * [[AppZen]]
-    * 
+    * [[Prometric]]
+    * [[ForcePoint]]
+    * [[Gadget]]
+
+= Oracle Tools = 
+* [[CIM]]
 
 = Knowledge Base =
 
-== OCI ==
-    * [[Kubernetes]]
-    * 
+== [[OCI]] ==
+== [[Azure]] ==
+== [[AWS]] ==
+== [[FOSS]] ==
+== [[Languages]] ==
 

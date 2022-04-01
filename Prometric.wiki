@@ -1,0 +1,16 @@
+= Prometric = 
+
+== Highlights ==
+* Some on-prem workloads remaining
+* built on [[Azure]] by 3rd party
+* Using lots of [[Azure]] proprietary services
+
+== Architecture ==
+* [[Kubernetes]]
+* [[API Gateway]] in front of [[Load Balancer]]
+  - Gateway is used to rewrite uri/path to different environments
+  - They want a developer portal, not something [[oci]] has today
+* [[Ingress controller]] [[nginx]] - do they want this?
+  - Ingress provides domain routing to various microservices
+  - this could be accomplished at api gateway instead
+* [[SSL]] terminates at [[Load Balancer]] 

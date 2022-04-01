@@ -1,0 +1,8 @@
+= API Gateway = 
+
+== Capabilities ==
+* [[SSL]] Termination
+  - Gateways will be given auto-created certs from Oracle CA
+  - optionally supply custom certs
+  - integrates with [[Certificates Service]]
+  - 
