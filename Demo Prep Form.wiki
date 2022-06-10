@@ -1,0 +1,26 @@
+= Demo Prep Form =
+
+== Business Value ==
+What is their business value?
+what do they hope to achieve?
+What is the desired result?
+
+== Key Points ==
+What questions need to be answered?
+What capabilities do they need to see?
+What specific concerns need to be addressed?
+What's the top priority of key points?
+
+== Sensitive Topics ==
+Are there sensitive topics?
+Is there any impact on tangent deals?
+
+== Alternative Solutions ==
+What are the customer's alternative options?
+What are the known traps and responses?
+How do you plan to address/defend?
+
+== Attendees ==
+What are the attendees roles and responisibilites?
+have the stakeholders changed?
+can we link to the paint points and needs of each?

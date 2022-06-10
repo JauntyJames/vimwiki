@@ -1,0 +1,10 @@
+= OKE =
+[[Kubernetes]]
+
+== Service Limits ==
+
+* 
+
+== Blogs/Docs ==
+
+https://www.ateam-oracle.com/post/observabitiliy-on-oracle-oci-using-custom-logs-in-oci-logging-to-monitor-and-analyze-cloud-native-applications

@@ -7,3 +7,19 @@ NYC, Hearst building
 
 Workshop planned for 2022-04-25 through 26
 
+
+first half - present [[mushop]]
+
+second half - walkthrough of monitoring the services in the cluster
+
+creating an ELK stack also, to send logs
+
+have a qr code app in k8s
+
+beginner/intermediate level k8s users
+
+application takes a PDF file and digests into digestable bites - like creating product manuals
+
+rather than capturing everything, they want to only capture errors etc
+
+[[Gadget Workshop]]

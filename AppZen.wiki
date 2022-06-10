@@ -1,12 +1,31 @@
 = AppZen =
 
+== People ==
+
+Chris Bollerud - Technical lead
+
 == Technologies ==
     * [[Kubernetes]] ([[OKE]])
     * [[Container registry]]
+    * [[AWS Step Functions]]
+    * [[Elastic Search]]
+    * [[Redis]]
+    * [[MySQL]]
+    * [[SQS]] OCI [[Queue Service]]
 
+== Notes ==
+
+- keep SQS messages small, if they're large they put it in s3 and pass a pointer in sqs
+- FIFO - ordering not super important but nice to have, as is priority queue
+
+- all ECS in expense, all K8s in others
+- k8s version - 1.19
+- 
+- observability - fluentd is everywhere, elastic, prometheus, grafana
 == Questions ==
 
 * What limitations might they find?
   - PVC functionality?
+  - k8s version?
   - LB functionality?
   - [[Container registry]] service limits?

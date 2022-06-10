@@ -1,0 +1,15 @@
+= Blujay/E2Open =
+
+bought by e2Open
+booking a 2mil deal this week
+bringing oracle licenses over from aws
+Michael Lunny - manager of cloud infrastructure
+Martin Bokman
+dedicated hosts - compliance need, encryption in transit
+- guidance from customer is that in public cloud, in shared resources, encrypt in transit. service mesh doesn't cover all encryption needs
+
+building out staging environment in june, for 2 other customers - assa abloy, inditech
+lb with weblogic nodes in cluster, connecting to oracle db
+
+looking to implement security event notifications, using log analytics, elasticsearch for on prem
+

@@ -1,0 +1,15 @@
+= Multitenancy design doc =
+
+when someone creates a child tenancy is by default from a common tenancy
+
+there should be a review process for additional resources
+
+clarify about service user in child tenancy creation heading
+
+clarify 'in use'
+
+parent tenancy admin email?
+
+change parent tenancy admins to control plane admin
+
+clarify on shutting down resources - tag based, parent tenancy provides scripts

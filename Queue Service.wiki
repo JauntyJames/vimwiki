@@ -1,0 +1,5 @@
+= Queue Service = 
+
+Conceptually the same as SQS
+
+apis to create message, get message, delete/update

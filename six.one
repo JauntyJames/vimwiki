@@ -1,0 +1,15 @@
+= Six.One =
+
+desktop as a service
+uba user behavior analytics
+rmm
+
+self service stack
+customers can run it themselves, or they can provide white-glove
+dedicated or auto-scaling
+value is around orchestration, security, etc
+
+rolled their own hypervisor
+track license by user - know what usesr is using what application
+
+how does this deploy?

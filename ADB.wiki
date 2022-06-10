@@ -1,0 +1,6 @@
+= Autonomous Database = 
+
+== Autoscaling ==
+
+- memory scales with CPU at aprox 1:8GB. 
+

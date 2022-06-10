@@ -1,0 +1,24 @@
+= Waters =
+
+software used by biomed technology
+UI on windows
+app called "empower client software"
+graphs and analysis
+client machine pulls data from file server, processes, pushes to atp
+embedded software license
+
+
+Would the gold image be immutable?
+licensing a question
+
+end-user access through vpn tunnel?
+
+
+should appear as direct attached storage, not network attached storage
+in ntfs format
+
+
+VDI issue - timezones??? logging into sessions on different timezones causes data integrety issues
+
+installation - 3 weeks for atp, 2 weeks for dbcs, 1 week for manual | migration - 4 db for one, one consolodated from 4 1 week discovery 1 week migration | 1 week 
+

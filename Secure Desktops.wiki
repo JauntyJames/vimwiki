@@ -1,0 +1,15 @@
+= OCI Secure Desktops =
+
+This is a dservices based on secure global desktops
+on-prem sgd can provide application access in addition to entire desktops
+
+list of desktops the user has access to
+can run golden image
+
+when? 
+inernal pilot beginning of July
+LA beginning of August
+GA end of August
+
+not fips compliant
+ssl encrypted

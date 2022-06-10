@@ -1,0 +1,11 @@
+= JobDiva =
+
+SaaS for staffing companies
+
+
+== Stack ==
+
+- Java
+- [[Oracle]]
+- MySQL
+

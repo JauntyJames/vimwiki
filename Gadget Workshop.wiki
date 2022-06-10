@@ -1,0 +1,8 @@
+= Gadget Workshop =
+
+Mushop - 
+
+https://www.ateam-oracle.com/post/observabitiliy-on-oracle-oci-using-custom-logs-in-oci-logging-to-monitor-and-analyze-cloud-native-applications
+
+
+service mesh - securing backend microservices, zero trust architecture

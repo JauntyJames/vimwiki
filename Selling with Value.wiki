@@ -1,0 +1,88 @@
+= Selling with Value Workshop =
+
+DISC personality types
+
+Dominance - Assertive, direct, competitive
+Influence - Enuthisastic, personable, optimistic
+Compliance - Accurate, organized, perfectionist
+Steadiness - sincere, patient, modest
+
+
+Mamma Maggy
+
+Oracle DB EE & SE
+MySQl
+Weblogic
+Pplsoft
+JDE
+
+Yen LI is director of operations
+
+Supply chain improvement opportunity
+
+Alex Cooper, director of finance
+Kiran, vp sales and marketing
+
+- grumpy about being left in the lurch by previous sales rep
+- tried to launch a mobile app
+- problems with controlling social media image, negative reviews
+- often run out of ingredients
+
+Renee Castro
+
+150m budget for 'project mercury'
+
+D - dominant
+
+usually an elevator pitch discussion
+is it possible or not?
+be ready to pivot because they will want to talk about their own agenda
+in an ex
+results oriented
+
+Mapping customer needs
+
+- Goals
+  - Goals are established by executives. Quantifiable and timebound
+  - leadership develops strats to achieve goals
+  - it's important to know who owns each goal, strategy, tactic
+  - capture customer landscape to understand goals
+
+Discovery mapping 
+- never make up anything
+- leave blanks where you aren't sure
+
+How to ask powerful discovery questions
+what drives decisions?
+what are goals?
+
+down questions - getting into details, pain points
+up questions - ask about goal, vision, big picture
+"What would that give you? What would that get you?"
+"What goals are you trying to acchieve?"
+Sideways questions - "what else? who else? Anything else?" 
+
+
+Mamma maggy example
+up - 'how do you manage your systems, oracle db?'
+down - 'if you solved this, what would that mean for mm?' 'what would it mean for your org specifically?'
+side - top of mind? 'what would be another project after that?' 'who else?'
+
+
+Renee castro's priorities
+strategic direction, technical vision, keeping up with tech, finding balance, reducing tech debt, agility
+
+= customer value based presentations =
+
+Minto pyramid principle
+Key message: the answer
+Supporting arguments
+Supporting data or facts
+
+Kevin
+
+time check, agenda, next meeting
+Goal up to, verify. [business value]
+call out to who you heard it from
+
+DISC, discovery techniques, directional questioning, SEARCH, 

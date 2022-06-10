@@ -1,0 +1,18 @@
+= Ascend =
+
+'experiential learning management system'
+primarily serve healthcare - scheduling, electronic evaluations, related tools like k8s logging, textbook scenarios, time tracking, validation, auditing
+track necessary immunizations and certifications, curriculum mapping
+
+cold fusion - running on windows
+
+php system
+2/3 legacy apps are in partner data centers
+IBM softlayer, a little AWS
+
+they have a cloud services infrastructure team that does cloud management, scott doesn't touch it
+use kafka as message broker to send data to analytics group
+analytics group uses all azure
+
+elasticsearch for centralized logging
+standardization is a huge focus - moving increasingly toward azure
