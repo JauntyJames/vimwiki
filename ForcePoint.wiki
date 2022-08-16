@@ -2,3 +2,7 @@
 
 Met with Riju to configure load balancers - underlying issue related to the LB subnet and API subnet being the same
 Shalini and Bengaly are working on Observability and Management workshop to showcase [[Mushop]], [[APM]], [[Logging Analytics]]
+
+[[Go-live assurance]]
+
+SPM: 18376463

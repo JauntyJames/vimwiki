@@ -1,0 +1,31 @@
+= GoTo =
+
+goto meeting was originally part of another company
+sasha kumal, vp of engineering, very involved and hands-on
+
+
+started with VCS video cluster services, piece that does video transcoding for goto
+around 250 nodes per region, 8 ocpu nodes, phx iad frankfurt
+went live ~ july 2021
+had some issues where cluster autoscaler would kill good nodes
+
+another issue: hit e4 capacity issues
+
+A number of initiatives going on:
+video gateways - head-end nodes talking to clients, dealing with video clients, require dynamic scaling, uses a lot of ingresses
+
+
+Audio workload - stores video recordings on NFS share, when you call into an audio meeting it pulls from nfs
+Sebastian asked about first byte read at node rotation
+
+MCS - Screen-sharing worklods - some are not containerized, those have been rolled out on compute
+legacy windows workloads - wanted to use BYOL
+
+
+sebastian daehne - runs devops
+
+
+need the equivilent of a readiness gate
+issue where external dns is reading both the internal and external IPs when using an nlb with oke
+
+

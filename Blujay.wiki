@@ -1,5 +1,7 @@
 = Blujay/E2Open =
 
+SPM: 11332034
+
 bought by e2Open
 booking a 2mil deal this week
 bringing oracle licenses over from aws
@@ -12,4 +14,28 @@ building out staging environment in june, for 2 other customers - assa abloy, in
 lb with weblogic nodes in cluster, connecting to oracle db
 
 looking to implement security event notifications, using log analytics, elasticsearch for on prem
+
+q: using etcd backend for state + locking. This is being deprecated
+either have bitbucket support for resource manager or locking for s3 backend
+
+
+Datacenter outage in London
+only one AD went down, in flight data recovered from message broker
+
+big next thing: implementation of [[vmware]]
+aug 15th next date
+Netapp
+no visibility yet into how big they are
+
+
+new customer:
+SNOP Sales PAUSED
+278 ocpus, ~4.6 tb memory 20 tb storage, some fss
+6 databases (4 oracle VM dbs, 1 sql server, 1 MDS)
+
+last couple of weeks they built out UAT tenancy - LDAP servers, AD servers, holding at that
+
+
+Why are we spinning up on-prem with cloud DR instead of all-in cloud?
+
 

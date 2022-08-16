@@ -1,0 +1,21 @@
+
+Team that supports go-lives so that they go as smoothly as possible
+part of natd 
+still require customers to craise SRs
+what they do is behind the stage - engage in PMO cadence meetings, get a sense of where problems will arise
+make sure SRs get routed correctly
+keep technical summary on project
+have a set of best-practices for onboarding workloads
+
+what do they do behind the curtain? Set up slack channel, assigned dedicated support point of contact
+use NACT SME's, channel is internal project execution log
+
+to engage
+fill out word form
+lookup CSI
+opp ID, reg ID
+projected date for go-live
+office hours on thursdays
+
+
+

@@ -8,6 +8,8 @@
     * [[Blujay]]
     * [[six.one]]
     * [[JobDiva]]
+    * [[GoTo]]
+
 
 = Oracle Tools = 
 * [[CIM]]
@@ -34,4 +36,4 @@
 chinma joshi
 jeremy mendez
 
-https://objectstorage.ca-toronto-1.oraclecloud.com/p/H4fNF868el4wsk7g8RHXgD_R_suVp6TuNgag5VouE6YItNQh8r77uJn_uFM1et1s/n/orasenatdpltintegration03/b/excel-consumption-project-bucket/o/skus.csv
+secret customer: telesys
